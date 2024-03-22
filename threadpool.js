@@ -14,4 +14,4 @@ process.env.UV_THREADPOOL_SIZE = 5;
 //but if we increase it more than our cpu cores it takes more time to execute
 //
 
-//networkIO async handled differently
+//networkIO(https) async handled differently dono use thredpool
